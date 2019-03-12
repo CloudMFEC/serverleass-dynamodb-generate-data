@@ -17,7 +17,7 @@ module.exports.hello = async (event, context) => {
             customer_tel: {
                 S: "0983696978"
               },
-            cusatomer_address: {
+            customer_address: {
                   S: "Mars"
             }
           },
