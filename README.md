@@ -1,7 +1,7 @@
 # serverleass-dynamodb-generate-data
 This is repo for learning serverless
 
-### Pre-requisites ####
+# Pre-requisites 
 AWS Cli 
 https://docs.aws.amazon.com/en_us/cli/latest/userguide/cli-chap-install.html
 
@@ -14,11 +14,10 @@ https://nodejs.org/en/download/
 Serverless Framework
 https://serverless.com/framework/docs/getting-started/
 
-### install node_module ###
-$npm install 
+# install node_module 
+$ npm install 
 
-### Deploy  ###
-
+#Deploy Step
 # Set aws configure
 $ aws configure
 
@@ -31,11 +30,12 @@ Default region name [None]: ap-southeast-1
 Default output format [None]:
 
 
-#Deploy 
-$serverless deplpoy 
+### Deploy ###
+$ serverless deplpoy 
 
 
-### Output Deploy
+
+# Output Deploy
 
 Service Information
 
