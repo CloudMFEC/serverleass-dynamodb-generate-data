@@ -1,0 +1,24 @@
+{
+  "name": "serverleass-dynamodb-generate-data",
+  "version": "1.0.0",
+  "description": "This is repo for learning serverless",
+  "main": "generateCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CloudMFEC/serverleass-dynamodb-generate-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CloudMFEC/serverleass-dynamodb-generate-data/issues"
+  },
+  "homepage": "https://github.com/CloudMFEC/serverleass-dynamodb-generate-data#readme",
+  "dependencies": {
+    "aws-sdk": "^2.419.0",
+    "uuid": "^3.3.2"
+  }
+}
